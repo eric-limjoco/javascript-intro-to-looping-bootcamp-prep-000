@@ -13,4 +13,6 @@ function whileLoop(n){
   return 'done'
 }
 
-function doWhileLoop(arr)
+function doWhileLoop(arr){
+  
+}
